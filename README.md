@@ -2,6 +2,9 @@
 ini adalah sample web sederhana warehouse untuk inbound dan outbound
 website ini untuk memenuhi kriteria untuk melamar pekerjaan
 
+### saat saya mencoba mengimplementasikan menggunakan API namun muncul error 401 (unauthorizen)
+### saya coba menggunakan local storage agar memenuhi simulasi pembuatan website
+
 ## Screenshot
 
 ### Home
